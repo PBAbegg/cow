@@ -1,0 +1,15 @@
+p {
+    font-size: 20pt;
+}
+
+body {
+    color: lightskyblue;
+}
+
+.cowPicture {
+    max-width: 550px;
+}
+
+#mainPicture {
+    margin: 10px;
+}
